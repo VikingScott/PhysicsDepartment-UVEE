@@ -1,3 +1,3 @@
-# PhysicsDepartment-UVEE
-Unmanned Visual Enhance Equipment
+# PhysicsDepartment-VEE
+Visual Enhance Equipment
 The equipment contains techno. 2+
